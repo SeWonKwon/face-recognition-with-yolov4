@@ -3,6 +3,7 @@
 목표: 커스텀 데이터 셋을 활용환 클라우드 환경에서 실시간 얼굴 분류
 환경: 구글 코랩, yolov4, face_recognition
 
+![fr-with-yolov4](https://user-images.githubusercontent.com/73154316/119823057-5841af80-bf2f-11eb-98cd-99794a471bb6.gif)
 --------------------
 # download weight:
 * [weight]https://drive.google.com/u/0/uc?export=download&confirm=S6so&id=1t1IxhLkGlCf8rQy-OgmkrytBDVbHSmiZ
